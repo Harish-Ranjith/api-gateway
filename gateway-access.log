@@ -1,0 +1,10 @@
+[2026-05-22T16:46:21.528Z] [Trace: 7f0958d7-c3cb-4821-8505-c6c6285da55a] GET /api/users | Target: 8002 | Status: 200 | Latency: 18ms
+[2026-05-22T16:46:21.585Z] [Trace: 2ab3655d-d152-4512-9e32-2534a0e95573] GET /favicon.ico | Target: 8003 | Status: 200 | Latency: 11ms
+[2026-05-22T16:46:22.172Z] [Trace: 6732f0b6-4f1f-407b-a33f-1e08367f1e38] GET /api/users | Target: 8001 | Status: 200 | Latency: 11ms
+[2026-05-22T16:46:22.262Z] [Trace: 9bfad138-ecaf-434d-ba53-48d53e68d37d] GET /favicon.ico | Target: 8002 | Status: 200 | Latency: 6ms
+[2026-05-22T16:46:22.633Z] [Trace: e388d460-19dc-434a-8f4c-ab41be7a1fec] GET /api/users | Target: 8003 | Status: 200 | Latency: 3ms
+[2026-05-22T17:42:30.423Z] [Trace: e4a519a0-dbfd-4b2b-87c7-07feb8c05e0d] GET /api/users | Target: 8001 | Status: 200 | Latency: 11ms
+[2026-05-22T17:42:30.575Z] [Trace: 2558227a-94e2-43b8-a239-ef95948678e0] GET /favicon.ico | Target: 8002 | Status: 200 | Latency: 14ms
+[2026-05-22T17:42:30.781Z] [Trace: cc477e39-5ece-47e5-a1f9-13fd6d967167] GET /api/users | Target: 8003 | Status: 200 | Latency: 7ms
+[2026-05-22T17:42:30.862Z] [Trace: ac6977ab-2052-4f5f-bd5e-7f78fc6b8e07] GET /favicon.ico | Target: 8001 | Status: 200 | Latency: 6ms
+[2026-05-22T17:42:31.130Z] [Trace: bbbdc33b-0b52-46f2-ab2a-4106122012b7] GET /api/users | Target: 8002 | Status: 200 | Latency: 3ms
